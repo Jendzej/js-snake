@@ -1,0 +1,12 @@
+#play-board {
+    width: 800px;
+    height: 800px;
+    background-color: aqua;
+}
+.play-field {
+    width: 40px;
+    height: 40px;
+    background-color: black;
+    float: left;
+    color: white;
+}
