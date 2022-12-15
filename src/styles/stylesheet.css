@@ -2,6 +2,7 @@
     width: 800px;
     height: 800px;
     background-color: aqua;
+    position: absolute;
 }
 .play-field {
     width: 40px;
@@ -9,4 +10,16 @@
     background-color: black;
     float: left;
     color: white;
+}
+#menu {
+    color: white;
+    position: absolute;
+    background-color: #a48e75;
+    margin: 25%;
+    text-align: center;
+    display: block;
+}
+body{
+    position: relative;
+    left: calc(50% - 400px);
 }
